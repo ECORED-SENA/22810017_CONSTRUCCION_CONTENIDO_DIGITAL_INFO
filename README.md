@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Desarrollo de habilidades digitales para la construcción de contenido digital**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/22810017_CONSTRUCCION_CONTENIDO_DIGITAL_INFO/](https://ecored-sena.github.io/22810017_CONSTRUCCION_CONTENIDO_DIGITAL_INFO/)
 
 #
